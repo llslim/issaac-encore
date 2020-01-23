@@ -1,0 +1,26 @@
+{
+  "name": "isaac-encore",
+  "version": "1.0.0",
+  "description": "An webapp for the ISAAC 2020 Conference designed for Encore.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llslim/issaac-encore.git"
+  },
+  "keywords": [
+    "conference",
+    "accessibility"
+  ],
+  "author": "Kevin Williams <kevin@llslim.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llslim/issaac-encore/issues"
+  },
+  "homepage": "https://github.com/llslim/issaac-encore#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
