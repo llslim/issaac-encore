@@ -45,6 +45,7 @@ body {
   visibility: visible;
   -webkit-transform: translateX(-100%);
   transform: translateX(-100%);
+
 }
 
 /* CUSTOMIZE THE CAROUSEL
@@ -124,6 +125,10 @@ body {
 @media (min-width: 62em) {
   .featurette-heading {
     margin-top: 7rem;
+  }
+  .offcanvas-collapse.open {
+  width: 20%;
+
   }
 }
 
