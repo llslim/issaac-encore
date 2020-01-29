@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/llslim/issaac-encore#readme",
   "dependencies": {
-    "bootstrap": "^4.4.1"
+    "bootstrap": "^4.4.1",
+    "bootstrap-icons": "^1.0.0-alpha2"
   }
 }
